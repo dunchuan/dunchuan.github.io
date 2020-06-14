@@ -87,7 +87,7 @@ input, select, textarea {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
-		line-height: 0.75em;
+		line-height: 1.75em;
 		color: #888;
 	}
 
@@ -2389,6 +2389,7 @@ input, select, textarea {
 
 			html, body {
 				overflow-x: hidden;
+				height = 50%;
 			}
 
 			body, input, textarea, select {
