@@ -214,7 +214,7 @@ input, select, textarea {
 
 	.container {
 		margin: 0 auto;
-		max-width: 100%;
+		max-width: 30%;
 		width: 1400px;
 	}
 
@@ -2389,7 +2389,7 @@ input, select, textarea {
 
 			html, body {
 				overflow-x: hidden;
-				height = 50%;
+					
 			}
 
 			body, input, textarea, select {
