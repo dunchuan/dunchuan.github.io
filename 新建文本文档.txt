@@ -26,25 +26,19 @@
 							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
 							-->
 							<h1 id="title"> Dunchuan Wu (吴敦川)</h1>
-							<p>New Graduate</p>
+							<p>Graduate Student</p>
 						</div>
 
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li>
-									<a href="#top" id="top-link"><span class="icon solid fa-home">Top</span></a>
+								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Welcome!</span></a></li>
+								<li><a href="#portfolio" id="projects-link"><span class="icon solid fa-th">Projects</span></a>
 								</li>
-
-								<li>
-									<a href="#portfolio" id="projects-link"><span class="icon solid fa-th">Projects</span></a>
-								</li>
-								<!-- <li>
-									<a href="#notes" id="notes-link"><span class="icon solid fa-th">Notes</span></a>
-								</li> -->
+								<li><a href="#notes" id="notes-link"><span class="icon solid fa-th">Notes</span></a></li>
 
 								<li><a href="#about" id="about-link"><span class="icon solid fa-user">About Me</span></a></li>
-								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact<br>dunchuan@asu.edu</span></a></li>
+								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
 							</ul>
 						</nav>
 
@@ -55,8 +49,8 @@
 					<!-- Social Icons -->
 						<ul class="icons">
 							<!--  <li><a href="#" class="icon brands fa fa-weixin"><span class="label">wechat</span></a></li> -->
-							<li><a href="https://github.com/dunchuan" class="icon brands fa-github" style="font-size: 5em;"><span class="label">Github </span></a></li>
-							<!-- <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li> -->
+							<li><a href="https://github.com/dunchuan" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 						</ul>
 
 				</div>
@@ -73,9 +67,10 @@
 							<header>
 								<h2 class="alt">
 								<strong>Welcome!</strong>
-								<h3> 
-								</h3> 
+								<h3> Leetcode Problems - Solved <strong>Today: 3 (#148 #179 && #3 #5 && #6 #9 && #7 #33 && #11 #12 #13 #14 && #15 #16 #17 && 18 19 20)</strong> </h3> 
+								<h3> Leetcode Problems - Solved <strong>in Total: 44</strong> </h3>
 								
+
 							</header>
 							
 							<!--
@@ -94,22 +89,12 @@
 							<header>
 								<h2>Projects</h2>
 							</header>
-							<p>
-							<strong>TO-DO List React Web App</strong> 
-							</p>
-							<a href="#" class="image featured"><img src="images/reactDemo.png" alt="" /></a>
-							<p>
-								-----------------------------------------------------------------------------------------------------------------------------------------------------------
-							 <!-- <br> -->
-							</p>
 
 							<p>
-								<strong>Online Food Ordering System</strong>
+							Android App Development with Machine Learning- capture a video of a person signaling ASL Alphabet signs and recognize and display correct alphabet sign classes (March 2020 - May 2020)
 							</p>
-							<a href="#" class="image featured"><img src="images/orderSystemDemo.png" alt="" /></a>
 							<p>
-								-----------------------------------------------------------------------------------------------------------------------------------------------------------
-							 <!-- <br> -->
+							Movie Recommendation Database - Python, PostgreSQL, DBeaver (August 2019 – October 2019)
 							</p>
 							<p>
 							Taxi App Simulation – Scala, SparkSQL (October 2019 – December 2019)
@@ -169,7 +154,6 @@
 					</section>
 
 				<!-- Notes -->
-				<!--
 					<section id="notes" class="five">
 						<div class="container">
 
@@ -202,7 +186,7 @@
 
 						</div>
 					</section>
-				-->
+
 
 				<!-- About Me -->
 					<section id="about" class="three">
@@ -226,7 +210,7 @@
 						<div class="container">
 
 							<header>
-								<h2>Contact: dunchuan@asu.edu</h2>
+								<h2>Contact</h2>
 							</header>
 							
 							<!--
@@ -253,14 +237,6 @@
 						<img src="https://hitwebcounter.com/counter/counter.php?page=7541498&style=0025&nbdigits=6&type=page&initCount=0" title="Web Counter" Alt="counter free"   border="0" >
 						</a> 
 					</p>
-
-					<!-- hitwebcounter Code START -->
-					<a href="https://www.hitwebcounter.com" target="_blank">
-					<img src="https://hitwebcounter.com/counter/counter.php?page=7815737&style=0001&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                                    
-                                    
-                                        
-                                          
-                            
 
 			</div>
 
